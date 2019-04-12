@@ -1,0 +1,10 @@
+Package: MICApp
+Title: Functions for Shiny App used to read MIC from Optical Density readings performed with a plate reader
+Version: 0.0.1
+Authors@R: person("Vincent", "Aranzana-Climent", email = "vincent@aracli.org", role = c("aut", "cre"))
+Description: Suite of functions that help me process results of microdiltuion MIC experiments and checkerboard experiments read on a TECAN optical density reader
+Depends: R (>= 3.4.1), ggplot2, xlsx, reshape2, rmarkdown, dplyr, readxl
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
